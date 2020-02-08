@@ -95,6 +95,10 @@ An example link to a bibliography entry <<taoup>>.
 
 A link to link:moredocs/adoc.asciidoc[a document] in a relative directory.
 
+WARNING: The above line doesn't work. Try this:
+
+A link to link:moredocs/another.adoc[a different document] in a relative directory.
+
 :numbered!:
 
 [appendix]
