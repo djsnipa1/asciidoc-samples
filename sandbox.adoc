@@ -24,3 +24,6 @@ It's a sandbox.
 More detail.
 
 == Subsection Z-1
+
+
+include::https://rawcdn.githack.com/asciidoctor/asciidoctor.org/11c77c627e483b0f7d2f22d190cd8de9795596a5/docs/asciidoc-syntax-quick-reference.adoc
